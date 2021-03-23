@@ -1,0 +1,11 @@
+C:\Users\MONSTER\Desktop\Emir_ÜNİ\C#\EnginDemirogKamp\class_function_beginnerExample\obj\Debug\netcoreapp2.1\class_function_beginnerExample.csprojAssemblyReference.cache
+C:\Users\MONSTER\Desktop\Emir_ÜNİ\C#\EnginDemirogKamp\class_function_beginnerExample\obj\Debug\netcoreapp2.1\class_function_beginnerExample.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\Emir_ÜNİ\C#\EnginDemirogKamp\class_function_beginnerExample\obj\Debug\netcoreapp2.1\class_function_beginnerExample.AssemblyInfoInputs.cache
+C:\Users\MONSTER\Desktop\Emir_ÜNİ\C#\EnginDemirogKamp\class_function_beginnerExample\obj\Debug\netcoreapp2.1\class_function_beginnerExample.AssemblyInfo.cs
+C:\Users\MONSTER\Desktop\Emir_ÜNİ\C#\EnginDemirogKamp\class_function_beginnerExample\bin\Debug\netcoreapp2.1\class_function_beginnerExample.deps.json
+C:\Users\MONSTER\Desktop\Emir_ÜNİ\C#\EnginDemirogKamp\class_function_beginnerExample\bin\Debug\netcoreapp2.1\class_function_beginnerExample.runtimeconfig.json
+C:\Users\MONSTER\Desktop\Emir_ÜNİ\C#\EnginDemirogKamp\class_function_beginnerExample\bin\Debug\netcoreapp2.1\class_function_beginnerExample.runtimeconfig.dev.json
+C:\Users\MONSTER\Desktop\Emir_ÜNİ\C#\EnginDemirogKamp\class_function_beginnerExample\bin\Debug\netcoreapp2.1\class_function_beginnerExample.dll
+C:\Users\MONSTER\Desktop\Emir_ÜNİ\C#\EnginDemirogKamp\class_function_beginnerExample\bin\Debug\netcoreapp2.1\class_function_beginnerExample.pdb
+C:\Users\MONSTER\Desktop\Emir_ÜNİ\C#\EnginDemirogKamp\class_function_beginnerExample\obj\Debug\netcoreapp2.1\class_function_beginnerExample.dll
+C:\Users\MONSTER\Desktop\Emir_ÜNİ\C#\EnginDemirogKamp\class_function_beginnerExample\obj\Debug\netcoreapp2.1\class_function_beginnerExample.pdb
